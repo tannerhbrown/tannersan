@@ -1,0 +1,602 @@
+{
+  "hotels": [
+    {
+      "id": "nazuna-kyoto-gosho",
+      "name": "Nazuna Kyoto Gosho",
+      "restaurants": [
+        {
+          "place_id": "ChIJLS3WZJIIAWARqQv8aoODVqs",
+          "name": "Hotel Okura Kyoto",
+          "address": "Japan, 〒604-8558 Kyoto, Nakagyo Ward, Ichinofunairichō, 河原町御池",
+          "vicinity": "河原町御池, Kyoto, Nakagyo Ward",
+          "lat": 35.01184819999999,
+          "lng": 135.7694265,
+          "rating": 4.3,
+          "user_ratings_total": 4728,
+          "price_level": null,
+          "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNS70yqyJYAf981yZsTlsw7QocqiPzlOd8NDaDcHQ_xlcUcQTZtcc_XHmfZJtYQ-kgH3endq9cyJQ40DRSpsJ_vUpggs3_eCO5CNU6cW57v8jnGQ7wyPzzTg2rR8UyjN6NVfsENl4vcOcmpu0ACNzOGFFyI4KS0q_sbdiKe8GLap-BLugLdJYi1vK_4ErSJ1n62c0jB-FmkuuB1BsUX5h45YkPoWVVPpqZwIdeineL6JteKNSjf5M7FmrjWcJOn8m80lLFy78kRIaUtcLJbxhwPQdDFxwSoD3Hc8vJcgipHs4XuJt6YgTnTDGZj3uOSmJCwZiy9HrVQ"
+          ],
+          "website": "https://www.hotel.kyoto/okura/?utm_source=google&utm_medium=gbp&utm_campaign=profile",
+          "phone": "075-211-5111",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: Open 24 hours",
+              "Tuesday: Open 24 hours",
+              "Wednesday: Open 24 hours",
+              "Thursday: Open 24 hours",
+              "Friday: Open 24 hours",
+              "Saturday: Open 24 hours",
+              "Sunday: Open 24 hours"
+            ]
+          },
+          "hotel_distance_km": 1.2
+        },
+        {
+          "place_id": "ChIJgXj-F5MIAWARkA0y8vgIOOA",
+          "name": "Izakaya Ikedaya Hananomai - Sanjo Station",
+          "address": "Japan, 〒604-8004 Kyoto, Nakagyo Ward, Nakajimachō, ８２ 申和三条ビル",
+          "vicinity": "申和三条ビル, ８２ Nakajimachō, KyotoNakagyo Ward",
+          "lat": 35.0089441,
+          "lng": 135.7699035,
+          "rating": 3.5,
+          "user_ratings_total": 788,
+          "price_level": 2,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNQdftb8-dyrJWHllLsO8EzkQ6Wi1_JPoKG98TfKUaRHdGSGdzj_WeZMtWYBd3kX2zg-9G2qG3PUgxrsm0gUkp4F0qEnRcPrRdfChndd0eWBSXWt3G_wk36Yng8xv_47EWzbgLDrFzWRYZ_lKav6hM_gIoWH6h5mn9LSTXsGGKxrirAhwV4rNz6NgvZmfZh4PhnVrbMgMuC5jtBz9p4iJF5jArF3p6hUx2hIuHk_TNNzDJeex7bXMl_YoM5BgaS5WsZuSINRHj6jZyw_Ki_E7196VDkAyFvyqyhss28zW7EeST36nqcdyq-AAaxOImiQf9pAD2Gwgoo"
+          ],
+          "website": "https://izakaya-hananomai.com/ikedaya/?utm_source=google_map&utm_medium=map",
+          "phone": "075-257-8122",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: 3:00 – 11:00 PM",
+              "Tuesday: 3:00 – 11:00 PM",
+              "Wednesday: 3:00 – 11:00 PM",
+              "Thursday: 3:00 – 11:00 PM",
+              "Friday: 3:00 – 11:00 PM",
+              "Saturday: 11:30 AM – 11:00 PM",
+              "Sunday: 11:30 AM – 11:00 PM"
+            ]
+          },
+          "hotel_distance_km": 1.39
+        },
+        {
+          "place_id": "ChIJP7SncMEIAWARAzHg_D_VLG0",
+          "name": "Junidan-ya",
+          "address": "570-128 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074, Japan",
+          "vicinity": "570-128 Gionmachi Minamigawa, Higashiyama Ward, Kyoto",
+          "lat": 35.002993,
+          "lng": 135.775346,
+          "rating": 4.4,
+          "user_ratings_total": 334,
+          "price_level": 2,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNQ6cAmWkVmY88N3lI346zkKfG8y58nFtMY7fdWnFHc7tSHDWyKzIaelkQSPXphtsdU3rFMjzMMzGoNJ8dcvxeomA4n0MRSqvc01Vq7zN_lIedAr7Z2FRyIHoeCwoQfxcFOcSuRMwIK1Q2SDtclhu0tYc31AGze99wl_0GUraNC83Clne7K6HuaIAYdACAugNCNaefDIqHcekf3Fxxt8P8xUgHH10TxFKEf00edlMxCxxlT5aynWd_9eNLOsU2HmWE3LRWIjGrdofXGGc4cEfikWFUILcxNoPcfDY4KnoBfgcjtQfxA0vYqFnrV9ueOHovi4q5WCp3A"
+          ],
+          "website": "http://junidanya-kyoto.com/",
+          "phone": "075-561-0213",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: 11:30 AM – 1:00 PM, 5:00 – 8:00 PM",
+              "Tuesday: 11:30 AM – 1:00 PM, 5:00 – 8:00 PM",
+              "Wednesday: Closed",
+              "Thursday: Closed",
+              "Friday: 11:30 AM – 1:00 PM, 5:00 – 8:00 PM",
+              "Saturday: 11:30 AM – 1:00 PM, 5:00 – 8:00 PM",
+              "Sunday: 11:30 AM – 1:00 PM, 5:00 – 8:00 PM"
+            ]
+          },
+          "hotel_distance_km": 2.19
+        },
+        {
+          "place_id": "ChIJ73n36IYIAWAR0OYK9dUDK5g",
+          "name": "Ichiran - Kyōto Kawaramachi",
+          "address": "598 Uraderachō, Nakagyo Ward, Kyoto, 604-8041, Japan",
+          "vicinity": "蛸薬師通新京極東入, 598 Uraderachō, KyotoNakagyo Ward",
+          "lat": 35.0057681,
+          "lng": 135.7678063,
+          "rating": 4.3,
+          "user_ratings_total": 5370,
+          "price_level": 2,
+          "types": [
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNTN80aw7kvr3kphOVfbLsi-fTgvljICPBTGpi9zUv3X3Jw1wKsza-dh2KRHMYDqoU5ELHVOXvdIVgor_NzXfQzPBChvtcHbagIaG_10NzNPpWUiwYrIvD5KaHgYlNiFtNQqnLAd_YnGlgvl3qtuV9yZuHkB0_E0fg8uN9CXPxra3wvxjY3e55dLFVgFcpYK6whK_iluQVO5oM3MEM97nmLMN3cFxOvQxOxkVdYc-x-Kj3cZUBBByyLC_DOnlVmjJgexbwsZ4nz5KjqUQ9hG87m7ti721nuHc67_I9UqElP5Ksoe2KfH9VRFS39ZfHvIyTwPD-74vCU"
+          ],
+          "website": "https://ichiran.com/shop/kinki/kyoto-kawaramachi/",
+          "phone": "050-1808-9543",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: 9:00 AM – 10:00 PM",
+              "Tuesday: 9:00 AM – 10:00 PM",
+              "Wednesday: 9:00 AM – 10:00 PM",
+              "Thursday: 9:00 AM – 10:00 PM",
+              "Friday: 9:00 AM – 12:00 AM",
+              "Saturday: Open 24 hours",
+              "Sunday: 12:00 AM – 10:00 PM"
+            ]
+          },
+          "hotel_distance_km": 1.48
+        },
+        {
+          "place_id": "ChIJuxR_z9oIAWAR1TzuP0HVXk4",
+          "name": "Hanasaki manjiro",
+          "address": "518 Washiochō, Higashiyama Ward, Kyoto, 605-0072, Japan",
+          "vicinity": "518 Washiochō, Higashiyama Ward, Kyoto",
+          "lat": 35.0016674,
+          "lng": 135.7801022,
+          "rating": 4.5,
+          "user_ratings_total": 481,
+          "price_level": 3,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNRYBmQnCRqeu6P2iORz5mlGQue5lpyTC5WztDidc4zybF4cWGeg2dhkTbmzZsLKZlB-J51iOyZmZEJGXA7Ez6c5rSW31Ug24SO8pxrXWHCZWN2fIsntynok_ZSBF6rbfqwddi3HEul2LKtBvSmA6AYxJYHytbgqOlVZYHygWdsiTAAR0rybXmwuOSiXgVskVVQfhjdb5FIlUaJN65Eyb71KqDF4rji5HF1-uqe21CYsuWlxekXGHtSj1RE4Jh6F4fHZ7CblXn1DBTldpkjg0W6mY2KJgdqK3sje_TvIPtSU_N9qcP2fD1qkOXh_dc59CPyHHI4EI80"
+          ],
+          "website": "http://www.kyoto-manjiro.com/",
+          "phone": "075-551-2900",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: 11:30 AM – 3:00 PM, 5:30 – 8:00 PM",
+              "Tuesday: 11:30 AM – 3:00 PM, 5:30 – 8:00 PM",
+              "Wednesday: 11:30 AM – 3:00 PM, 5:30 – 8:00 PM",
+              "Thursday: 11:30 AM – 3:00 PM, 5:30 – 8:00 PM",
+              "Friday: 11:30 AM – 3:00 PM, 5:30 – 8:00 PM",
+              "Saturday: 11:30 AM – 3:00 PM, 5:30 – 8:00 PM",
+              "Sunday: 11:30 AM – 3:00 PM, 5:30 – 8:00 PM"
+            ]
+          },
+          "hotel_distance_km": 2.62
+        },
+        {
+          "place_id": "ChIJaXM6LNcHAWARDUWuDlXz3jk",
+          "name": "Menbaka",
+          "address": "757-2 Minamiiseyachō, Kamigyo Ward, Kyoto, 602-8153, Japan",
+          "vicinity": "757-2 Minamiiseyachō, Kamigyo Ward, Kyoto",
+          "lat": 35.0176817,
+          "lng": 135.7476183,
+          "rating": 4.2,
+          "user_ratings_total": 3492,
+          "price_level": 2,
+          "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNR0JN-y05ebdXf6y_KOF-5iwUY0nR293FaTP1BfWh-ZzbSyytz3tdgy0zgNwLeUmcmxpV353ykoXF5zyvNE0zBKPpLOr6sEZQpf8sHfC3-uKwZtmkt2PS3IV6nx9qUsidy9ZjJozk5Dv-UE0Ma3qTYuZuhLOVZTRn4c9WPotKUm34F8DEfT8rR5bM7OaKVea0lhlchW2Vzo5F6ijOlK-FriVRf3DVBEOMW7tPIg37U32DeUoc4cVzmulIuIhB0SuV1n8uzaOdxsYTLHO7ArbRW8GuJKbyadRpsZpuO2hNG0HaKGJMC_i0A-U9rVodJZsEp2iwgf_e0"
+          ],
+          "website": "http://fireramen.com/",
+          "phone": "050-1722-4118",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: 11:00 AM – 10:00 PM",
+              "Tuesday: 11:00 AM – 10:00 PM",
+              "Wednesday: 11:00 AM – 10:00 PM",
+              "Thursday: 11:00 AM – 10:00 PM",
+              "Friday: 11:00 AM – 10:00 PM",
+              "Saturday: 11:00 AM – 10:00 PM",
+              "Sunday: 11:00 AM – 10:00 PM"
+            ]
+          },
+          "hotel_distance_km": 0.89
+        },
+        {
+          "place_id": "ChIJ273qsMwJAWARVvTAea-dGAg",
+          "name": "Kyoto Kitayama Monolith",
+          "address": "Japan, 〒606-8005 Kyoto, Sakyo Ward, Yamabanakawagishichō, １４−１ 北山モノリス",
+          "vicinity": "北山モノリス, １４−１ Yamabanakawagishichō, KyotoSakyo Ward",
+          "lat": 35.05323130000001,
+          "lng": 135.7905443,
+          "rating": 4.2,
+          "user_ratings_total": 161,
+          "price_level": 2,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNSwvNi0Ep9esawzdC67dDuajDRlv1YYvvHLVF3Y3kEjPwFN0B93lgebRzV7n2f84PIQubDV5UkVqAgCbycGfKnJJZsSceCHa07TKpI1Pt4GsZCcoWWvXvwa6rSQjLe7Tl6Yi6otPIW7446xV5F91mKJu1NFgcwwXS3DipPvZcyjaLQ9Li_2sAwb2JIDel6khAvFeYj7WCAxeJemYBJVKKgH_oQYEUd1-Ll9io0CDOaVNC7kpdipGRyjimUG1eGG2XlmtoqGnzMArPJ6nEutZuwuiTP8_RDSptd7W--a-hTqd4WYl1oMQm1u6AmqSyqE-6BJtniD7u4"
+          ],
+          "website": "https://restaurant.novarese.jp/kym/",
+          "phone": "075-706-5551",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: 11:00 AM – 7:00 PM",
+              "Tuesday: Closed",
+              "Wednesday: Closed",
+              "Thursday: 11:00 AM – 7:00 PM",
+              "Friday: 11:00 AM – 7:00 PM",
+              "Saturday: 10:00 AM – 8:00 PM",
+              "Sunday: 10:00 AM – 8:00 PM"
+            ]
+          },
+          "hotel_distance_km": 5.14
+        },
+        {
+          "place_id": "ChIJ85wTfewHAWARmNQxSnpWZ9Q",
+          "name": "Toyouke Chaya",
+          "address": "Japan, 〒602-8384 Kyoto, Kamigyo Ward, Kamiyagawachō, 今出川通御前西入紙屋川町822",
+          "vicinity": "今出川通御前西入紙屋川町822, Kyoto, Kamigyo Ward",
+          "lat": 35.0278106,
+          "lng": 135.7356004,
+          "rating": 4.2,
+          "user_ratings_total": 747,
+          "price_level": 2,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNRDiq1ZtX-lriX9-C8Jo0ZngWQd0L-VxoTy-D9QScfJe4RugfrGr6nYeM9kL-MW2FoMwBv2KZ97vtLTyhYkzZQEpbWiZoai7a_iMzPOFeWHVX6ysmYLPaPWKpGa7wa0_hKmLZVA3T6zQAGjsWISxDbZWODkZ1qcSjwlcQ2R8wpmjGH1SEHoRwENQGa7GrsuOmIe83_tzQlIbvZUGv0vB9fWX27mqXHL-jjVlo9zG83Prg3cX3bY5gY0ZpTBo4h7uoHySmDRgy43X4S2eaBjiCt0gX6bTeMbDog15_vvHwJ95MtNub7nCH7Ur-TNeAxrRSOgz3yXoDMM9_PDmljXd9qLbDsrTKKIFuK8-Dy-M0RG-ScOYicKWQANS_soFyc5a6EcG3z10VSocKJPgD0C10BVelR_qc0voGnLtyZ7aQr6y5DuoM0KOVXZTWsNoeyaDrxQMiHji8v9LT_xBHF7rchBXibRbzACoQ6g5KeYXsM99KcM69F6307Kq3SOreYQw0pFB757hyECHErscanlZcmWlGSuOhdogZ6LG5RtywwW-vuwfY8tStNC-yJ9CxWh94vgNu2CmWBTduorpqfdOz2NWdmo61xl2Htx7YlelqvxWYdDL8ZcAsWBpX6twHTjhaI0FA"
+          ],
+          "website": "http://www.toyoukeya.co.jp/shiten.htm",
+          "phone": "075-462-3662",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: 11:00 AM – 2:00 PM",
+              "Tuesday: 11:00 AM – 2:00 PM",
+              "Wednesday: 11:00 AM – 2:00 PM",
+              "Thursday: Closed",
+              "Friday: 11:00 AM – 2:00 PM",
+              "Saturday: 11:00 AM – 2:00 PM",
+              "Sunday: 11:00 AM – 2:00 PM"
+            ]
+          },
+          "hotel_distance_km": 2.37
+        },
+        {
+          "place_id": "ChIJVfiES7gIAWARCCxApKW1U9Y",
+          "name": "Hanbey Fu",
+          "address": "433 Shōninchō, Higashiyama Ward, Kyoto, 605-0903, Japan",
+          "vicinity": "433 Shōninchō, Higashiyama Ward, Kyoto",
+          "lat": 34.9953216,
+          "lng": 135.7686876,
+          "rating": 4.4,
+          "user_ratings_total": 647,
+          "price_level": 2,
+          "types": [
+            "grocery_or_supermarket",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNThistXsulR2VIDtshTsSORzgiwcMHArc1PtTENX3ymehgaX3LHOoQrTE-71Rn1B-Yj6_a5rrQsJGR6G-cAJyAusQDIp08uizginLWP_M1zQMIT6GA0DcDXQQCm2sbBt-ow3dY3nKLKkV-K7VzANRcBGeZenvKaNxg04miltrBfiGvNW_IqQy9VDvKd3JWzotuo2c732ZjidwWDHcTn-yLWNmk3wj0qS3YCRAanp3Y5gQ2I2ZzWwbrn5A5NVo-3F-fbR6cfmmjk3XPtueX3Xim6WH3inMR5ebGSD06HzspHGNKd6pqbsCvx8O2ni9vg1E5FfN9vsl0"
+          ],
+          "website": "https://www.hanbey.co.jp/",
+          "phone": "075-525-0008",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: 11:00 AM – 4:00 PM",
+              "Tuesday: 11:00 AM – 4:00 PM",
+              "Wednesday: Closed",
+              "Thursday: 11:00 AM – 4:00 PM",
+              "Friday: 11:00 AM – 4:00 PM",
+              "Saturday: 11:00 AM – 4:00 PM",
+              "Sunday: 11:00 AM – 4:00 PM"
+            ]
+          },
+          "hotel_distance_km": 2.52
+        },
+        {
+          "place_id": "ChIJqeJAF-IIAWARtVg0F27vkas",
+          "name": "Hotel Heian No Mori Kyoto",
+          "address": "51 Okazaki Higashitennocho, Sakyo Ward, Kyoto, 606-8332, Japan",
+          "vicinity": "51 Okazaki Higashitennocho, KyotoSakyo Ward",
+          "lat": 35.01715059999999,
+          "lng": 135.7895176,
+          "rating": 3.6,
+          "user_ratings_total": 1192,
+          "price_level": null,
+          "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNQxa6ObO5B22upGZDfd9c8n9zM3_1p9ZpUSXuWfi-BREp4bpZykl0BSrQxoi16KaOsH6g_zvio1qB7HroxskjPByo1uhcBppvJH-MQmllZ8bP9ChrLnkTuP19yKnCOd1uwFk180exFv4prO9wVttTl8DNBIik3lWbFKNyU5JpiBsFGU6TSBIbWKHhrESwvRb35vM5ck61z4xis8gSQAl-OO_HJjX2oNtbr0iK3N5HOni7NSxWNILDSBstpVWfd2SpQKEQJm_fJcDsHT0UbKsIOEJV6YRWP-NQtqxYdjCHRfx64gIXhUIQiMq87xL59cI1i-LR6xJ1g"
+          ],
+          "website": "https://hmihotelgroup.com/ryokan-heiannomori/?utm_medium=maps&utm_source=google",
+          "phone": "075-761-3130",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: Open 24 hours",
+              "Tuesday: Open 24 hours",
+              "Wednesday: Open 24 hours",
+              "Thursday: Open 24 hours",
+              "Friday: Open 24 hours",
+              "Saturday: Open 24 hours",
+              "Sunday: Open 24 hours"
+            ]
+          },
+          "hotel_distance_km": 2.95
+        },
+        {
+          "place_id": "ChIJjXHpyx4IAWARC0CMiYageA8",
+          "name": "Kaiseytei",
+          "address": "",
+          "vicinity": "5-8 Shimogamo Maehagichō, Sakyo Ward, Kyoto",
+          "lat": 35.0511573,
+          "lng": 135.7677343,
+          "rating": 4,
+          "user_ratings_total": 152,
+          "price_level": 2,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNRwVb8tn8446x1vewrYJ8vvx4OZqp8xz6ytJSdAWtvh7tMHnk-YCrNJjAApuQgnKVR_HvTXpY__V9PyVfpW5DoG2yZX0mUC3U-27ZUXXDi_0fvfEtU5Y15HucP5sjr9SEUHjQvEdI1vu1aYAehXTsIbW0e-liyaSjZEQhU1qUYwZ4l9twIw31gTEQchN9zXOAsDWIjbxgO9lays237dHwsz7lHybrQvZGm983HJY1CrOgKx3qqKwA71gSvenz44jJ4EusjbKXn9eIHtHI7wUbUxwWGx5zsWmvSwhqgbEesS7y6l_srdgxmZdovv6wTY_AvXoZuIxkw"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 4.04
+        },
+        {
+          "place_id": "ChIJ_dhKc8MIAWARimbbfyHhqBQ",
+          "name": "Yuzuya Ryokan",
+          "address": "",
+          "vicinity": "545 Gionmachi Minamigawa, Higashiyama Ward, Kyoto",
+          "lat": 35.00324820000001,
+          "lng": 135.7774398,
+          "rating": 4.4,
+          "user_ratings_total": 405,
+          "price_level": null,
+          "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNRcPwn0PYIyTVNNUT_o_q9axHNnIKi76vmU7_wTu57-1iJadLcmipvRrTD-OYLmpUaDQnjPo1SoqDPiaLqb6etM8JjfftgahTbldaNu5VbiFPwQf4AQVcTCqqq8AT74eLz1Vbr7JIsBU7voH0nVTI4qqEPseakvXCg7hNX0ErVvi3KgNktCkQsHTIAg1swq__uuAvohAc5ZOOIYsYevuIPb70JRR9AHyZhsG6VmxE9qUCab_1s7DsDvGG3K9tNhkNOns4CLbMa-NOqzw_ekG9Oz51XLAPBX-69bXdUTLnvR-D-Ij0oKfWzoDrtl5ne3mRPxBFnrF3Q"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 2.32
+        },
+        {
+          "place_id": "ChIJk3eWoM0HAWARzGhakJBkIo4",
+          "name": "Kyōto Rāmen Takabashi - BiVi Nijō",
+          "address": "",
+          "vicinity": "１０７BiVi二条 1F, Nishinokyō Toganoochō, KyotoNakagyo Ward",
+          "lat": 35.01006449999999,
+          "lng": 135.7413081,
+          "rating": 3.7,
+          "user_ratings_total": 497,
+          "price_level": 2,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNSE4vVa5hzMAdsAdi1grgT15sFCsK1zDJ9HnTbZpU9GqHrOrklj3wyIVA_QTuA0sVdIkrPlXJY4SdCa-y2k0Ovb_TDZRM4IgjCQfcoMdAubJS17bvCgGdctSSIFGCGJ2iQkIGIGEH9oNSJtlU2LvbabTvjNHIi0ruUTafmz8bTvXBtDxJhdygc1XYE9fVtkseZ3WRnURqVrwxWoS9XL9SXwQCj3rRFzfMYD2fkRQLOmUtU3AZjIzZeYqkki9R85FsEQVHL1PWfCawTSm597y2MkOYVwI73-BTtTg6Ib6NbAuu6p7dCWYQCECHElShTkAExQnXqIJfk"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 1.59
+        },
+        {
+          "place_id": "ChIJH1d_nJQIAWAR5VPw2HwoQdk",
+          "name": "Café & Meal MUJI - Kyoto BAL",
+          "address": "",
+          "vicinity": "京都ＢＡＬ ４Ｆ, 河原町通三条下ル, ２５１ Yamazakichō, KyotoNakagyo Ward",
+          "lat": 35.0069473,
+          "lng": 135.7697375,
+          "rating": 4.1,
+          "user_ratings_total": 245,
+          "price_level": 2,
+          "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNTHhN8EsA71VXRa-XQNuimsWmy-6ZuFVB07O_nYqNUcDbKxFXNQB7u2DpdGFo0O5eXP6xsqj1OZu3gp2njYXZMsIaJ9pnL-h5jh7v7sAFvMQUadY7vR-wEY7G9FzBfjKcbfEyagk_8BsI7xQ_tfK0My7vOGoJdmkgEJt2y_4MfCZcQXtN2UYMRbO4w45C7ZPDHYrgoS_VtU9c9geZy2ZJHrbv8lu3YawDrjRkqI32kZT2n44gn_tDV2wUj1YI63heFnwQ2GfMXgP5sy2rPur7qddfAvrsmAnfKeyXTaEEk6_xsCG7ME7Sho6NlmLOj_pyorLs8qqT4Kl0M4A53-RtawlHDOUncmvFu3BmIjYtKuXzMKtyATKgIxebDkZ4Kumh2SdHHswVDeCR8IZm_0ruuI8k7DaP44T161BsEUxX-UQ9awCUahXz98HkU8evJ6iFCJV_W_9hKUO_S8uUqIWZSokGRRlUQZs3YjeMDm74thd7IDsM11LzS6uvqZLq6B41v3keXXTfaLzYdxj2M_1ew_ZFt3yd312uXjUgH5hj6xZHE7WhFgrrGQzuCcBBJos97-O66AZVhJg_kUL-dBRG8XSyYYWJeZM_NwenTlJmSveazh4G25Gx7nCQf92vqUDCPpdwlL"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 1.51
+        },
+        {
+          "place_id": "ChIJ3UJUT5AIAWARvNskrarDSdw",
+          "name": "Ryokan Kohro",
+          "address": "",
+          "vicinity": "114 Horinouechō, Nakagyo Ward, Kyoto",
+          "lat": 35.0075737,
+          "lng": 135.7634009,
+          "rating": 4,
+          "user_ratings_total": 276,
+          "price_level": null,
+          "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNR8a6UflUe1RnKpG_CTHnM744LdO-nownJ0Ez5UaVNmeymwim1lv8KH7xsb01omwao7mAsiOYCw5_YhwoyLiNiot3YoNn10cf8p8FRvWvdEThc_Bh8GD2pIdGMX0g8215ae-fJB41JNjm-4CRyllWkJZGFavv84wmxHbI9Z4GyRDwXjHrFAl4Pv4xtZ1SKFHDsdGFweyT01v17jby2aOdajulWGA__HU9lbUMsaLbZ_i-jB9xlWrnQb3wF2O4lIwMtmbnAMSZvCDQfxAvyHNyQa8uAuPZf658EKqrbnTHLnFgry0ymwVTLUmab4t_CpiSNiuzFMw7I"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 1.08
+        },
+        {
+          "place_id": "ChIJ63cHwq4IAWARUNRYGxZpfdQ",
+          "name": "Donburi and Noodle Restaurant Hashitate",
+          "address": "",
+          "vicinity": "JR西口改札前イートパラダイス ジェイアール京都伊勢丹 3F, Higashishiokōjichō, Kyoto, Shimogyo Ward",
+          "lat": 34.98505159999999,
+          "lng": 135.7581599,
+          "rating": 4.2,
+          "user_ratings_total": 625,
+          "price_level": 2,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNSMc3uq0gGXXtELcYgX7vwQdiZpNi1X6xfdcWn6gQwY00T-1m6Oa4MvIdLDm7pkvhA9qCuFMtZb2rsFuQelQtIk_9dmqv2WUEmJHV17dbdYjFiKYUVaflSeXMMucXmQ2Td0uOUv4JFwr6EQjwdamOZbi9EUGENyot6xY3TOJF2oLKlqoS3XSxk1IIuEZRRTuhLkEP9uFVviVEOdSVlW5YhplbVkOs5GJ6CKIjH8yeA0bJWeQMEt27oju1C9Lnxlw_vAfk8fMf5iMhXh3meQNNwZ10WnEE6ksnpD2hJKtj-7e3pTmmYxBuwQU0Q_tBT_PtK6-f9L_qY"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 3.43
+        },
+        {
+          "place_id": "ChIJNcJPJecHAWARN6JSpCMFdkU",
+          "name": "Coffee & Restaurant Fresco",
+          "address": "",
+          "vicinity": "藤和シティコープ今出川 智恵光院, 西入西北小路町２４５, 今出川通智恵光院西入, ２４５ Nishikitakōjichō, KyotoKamigyo Ward",
+          "lat": 35.02974580000001,
+          "lng": 135.7467496,
+          "rating": 4.3,
+          "user_ratings_total": 161,
+          "price_level": 2,
+          "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNSKWAqNrmVA934QseSsLcTD2IiPpDdX8JtfEcQ2zFKZwKPs0pl4mVuIR5-7HDgmqBt1AFyqmqlTtWgwOg_-YKRYQQNkYZ6IS9jeI4OQIRE7AW_GQQoHHyAuarvlYgVl-F7WesTa0R-T8DUEN9SoyBjVUTNuX-f-5N6XkDw0FnDUWYQp5r0JnUeF3i9D1hwjTktaCIe2CMtKmlILNHF3tsp1DUGENM5aeT1HgoimMrQ7NYBjwNku9iZ28GjZFTN_4heuFhmJMXlIAo-Bee3ap6lN_Gs3R4oc5Y9UI_KbFpLQ1l1dm1pltrCJZ6jg_tKnVJUBLqrxZZDuRb5s-ZeiCu-LIqI8fl1QRXHezUFMQXz44lB9mDoS5FIHaLzqGVoOTvT0yRRz3H-Pzi7vPczrAeaMhgkd_iHLr9YKzgLgqIEHrNSIOCNe5C6ivTKIhNWFA9gW5EVDghdpIGMAQgEsUt-I98fCo4nldTligZQ-RWNFXdmJrxTjOkqPq206GtFCEFO1U3PskLcjeXzXWANJnWV21gaUZb19ArLzuV5Uci1aXtSUmW9zYdwmBDlcyJzetLucBcmeN1JCQh5ajMH6LuFEycJ_645Uaa3HcgZZTnNXUVuHzABDpKdg8IRG9F90dfusYbaQ"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 1.81
+        },
+        {
+          "place_id": "ChIJ63cHwq4IAWAREKrRXGzvvKQ",
+          "name": "Men-ya Iroha",
+          "address": "",
+          "vicinity": "901 Higashishiokōjichō, Shimogyo Ward, Kyoto",
+          "lat": 34.985679,
+          "lng": 135.7576542,
+          "rating": 3.7,
+          "user_ratings_total": 432,
+          "price_level": 2,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNQ7dNc4UlPs0_AOgQYrl5DP5zGcxnb45b_9etISjeqrS4O-vu_YHuvoqY_Og_8TREiG_XqahsOvMmvaNy-XbycyPGDXN88OPOfvbOMN4CxfSwesIfWFaJRRet5U3YMc2eymUW23Sxdjt87RtMiE4AbYdYVX3FbxgdOcV8yQNAVh9ZUNXENVxn6Ml8lIlRenV2aVdc-_E7nLI-_gVRtBjh8sfeReKo52szHWlFr4CLiE1vQGb1NCJQQD2TTjYzdEDuTSxbv2dl8RgG1rXB_bGWS1976v89rI9Vsk4H4znMnUOLzndyvfl4Zcp2p2sznmavItQrmUDKrljuVqZvxfWYWF8Xm7nCb9xhksGcCzsPgg6-upYjaU6g6vUJ9ciK-ioMxgmE9KrF004dN-mSpAzfDA1ISbc6tXqtdPcxiE5gLLHS1fSC0pAqE2GhFm4r69nrwTM3RUle5LVKqKui5PAE04_ik2IYqoXjEFo31S95NTtyo8yVgd9q5G4TWrRhrHaF5NBCjMV_FtgeeXR6RnKXmEEmt1GSnfnl50GWCjRkmsqovHY5Psrp2Ejv78vhYWYkKTBpH9-_sZMZCjHz5V9wdlroPlEveuj58Ce9b5eIjr_gQDhhNzt3fnRgtKARYx"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 3.36
+        },
+        {
+          "place_id": "ChIJCYvRia8IAWAR7_3ImvrODzU",
+          "name": "Gyoza no Ohsho - Shichijo Karasuma",
+          "address": "",
+          "vicinity": "烏丸通七条上る, 96−10 Sakuragichō, KyotoShimogyo Ward",
+          "lat": 34.9895662,
+          "lng": 135.7599717,
+          "rating": 3.8,
+          "user_ratings_total": 1885,
+          "price_level": 1,
+          "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNS4cKwLQSqwEaKF3aALaSZO5Fg12DxSsT-Qk7oJ_TgohESUdnyAv4HuugRKMYU-EZJ7kbQMqdlWpLmMr52EWB3ma4mLgzqksi514b6zcloNbiefJTrVWyGvs5ZkqgG8pXE4ijLa4-vkuRfsRsYZM6RnJO4W8ngmLUKLJZrVhj1v8iANp48QY8edzqeG8C4AQu5zxl_sTfjY6Fntqzj4wKFeV4DfA1FWwaVXoAmCwYOpUZQkboQ8RR2z7bARFV7pNdvNWtbBs0ocAXkJQq5lTqUKTfg-UArTbv_lHyJc4fCqVDNEikfgoEsWnAvlUt481fJrzSezXJPkgTJuerjA8ftOjJMQXaDaEEvtOBtIL4NaNjn__a26R2tIrXuM8mycajiiCbYdAo9iO70Gebe-R_8p_1jIxIH9R8nUJaAxP8UpV4bzL4dS2qu7yPvwEGlpCvS6HvT5CYGhIePWKzHmhLzdQaKfYRCUL3gfBaEQtq98sMA7OnKS0Gd6oNPtkh6gcnxnuS2iaelqsC_zJYfFoYji5BuZIiEynziL2JtZYshSOKPwh8uGJ7jHu4l1qyOPp_IZHNVbAE6Gx2qoVBPwu4q0wCeRoliOXqkv-8aFiIToUq83AxBA80BFZmz6TvXk"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 2.94
+        },
+        {
+          "place_id": "ChIJWTwdIZUIAWARAEenTpasC-o",
+          "name": "Tankuma Kitamise Honten",
+          "address": "",
+          "vicinity": "355 Kamiyachō, Nakagyo Ward, Kyoto",
+          "lat": 35.0051917,
+          "lng": 135.7700575,
+          "rating": 4.3,
+          "user_ratings_total": 163,
+          "price_level": 3,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNQmPvXroAB37CCR_Ji2cdA9iRzhQmW_f5O428NwqfeY57EarKze3IzgNfGp1KwuHEh7rzcwdYUcLf-hS1qugDpntWeuN73o11h882fGZccC3adfomAnjaoIlg89vRc2SX6gESGjF2Ge1_nrbZcd_44iuUJCKLa9oS6ZXTG5C-T5CTttrLqJMpPSLRfLU5bowyyke8ng_DQPknkVXpumS926cbD8RlxSRIied8p_W36NpX5wqcwC47aKrZmNTlkLuQCNlulH3MXA0uGF137LXjO_7ZwWC6fZ5v3MmTSYgBOb51RfsUBS4Ls5Krif3077-G0bmKU9eBk"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 1.67
+        }
+      ]
+    }
+  ]
+}

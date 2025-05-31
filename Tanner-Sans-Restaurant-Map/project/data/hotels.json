@@ -1,0 +1,38 @@
+[
+  {
+    "id": "trunk-hotel",
+    "name": "TRUNK(HOTEL) YOYOGI PARK",
+    "address": "1-15-2 Tomigaya, Shibuya-ku, Tokyo 151-0063, JAPAN",
+    "lat": 35.6658063,
+    "lng": 139.688275,
+    "description": "A small luxury boutique hotel overlooking Yoyogi Park in Shibuya, Tokyo. It is located in a quiet street and housed in two adjacent four-story buildings.",
+    "website": "https://yoyogipark.trunk-hotel.com/en"
+  },
+  {
+    "id": "hakone-kowakien-ten-yu",
+    "name": "Hakone Kowakien Ten-yu",
+    "address": "1297 Ninotaira, Hakone-machi, Ashigarashimo-gun, Kanagawa 250-0407, Japan",
+    "lat": 35.183331,
+    "lng": 139.033331,
+    "description": "A sanctuary-like ryokan located in Hakone, offering an escape from bustling city life with magnificent mountain views.",
+    "website": "https://www.ten-yu.com/en/"
+  },
+  {
+    "id": "nazuna-kyoto-gosho",
+    "name": "Nazuna Kyoto Gosho",
+    "address": "255-1 Hanatate-cho, Nakagyo-ku, Kyoto, Japan 604-0003",
+    "lat": 35.0159,
+    "lng": 135.7572,
+    "description": "A luxury ryokan (traditional Japanese inn) located in Kyoto offering unique rooms themed around traditional Japanese sweets, with features like hinoki (cypress) bathtubs.",
+    "website": "https://www.nazuna.co/en/property/nazuna-kyoto-gosho/"
+  },
+  {
+    "id": "the-westin-osaka",
+    "name": "The Westin Osaka",
+    "address": "1-1-20 Oyodo Naka, Kita-ku, Osaka, Japan 531-0076",
+    "lat": 34.7046,
+    "lng": 135.4897,
+    "description": "A wellness hotel in Osaka offering accommodations near key city landmarks, with dining options and proximity to local attractions.",
+    "website": "https://www.marriott.com/en-us/hotels/osawi-the-westin-osaka/overview/"
+  }
+]

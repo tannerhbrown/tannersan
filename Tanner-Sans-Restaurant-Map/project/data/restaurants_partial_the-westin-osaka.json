@@ -1,0 +1,587 @@
+{
+  "hotels": [
+    {
+      "id": "the-westin-osaka",
+      "name": "The Westin Osaka",
+      "restaurants": [
+        {
+          "place_id": "ChIJT6YLe4vmAGARRn7GOJLaLy8",
+          "name": "Hotel Monterey Osaka",
+          "address": "3-chōme-3-45 Umeda, Kita Ward, Osaka, 530-0001, Japan",
+          "vicinity": "3-chōme-3-45 Umeda, Kita Ward, Osaka",
+          "lat": 34.6994979,
+          "lng": 135.4917808,
+          "rating": 3.9,
+          "user_ratings_total": 2623,
+          "price_level": null,
+          "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNRzSxm8SN2_juPvZNF3sgEFPru8wiISaFdkmBuNh1UIgBUan7WrkYlruVkKWgQA97eshglkJDNatlPADNEts-aWf-v64bdnVtmk-aPoEBLsMN9yYZftY5X3UyIr3rtR5VgaxZOZwUeDcenx9tKIHC3Bo33k2Fuxc3-MvHr8IwfLbKXOWH4DBYOU-EDjwk9wyPVWGUk7VT_To9v1dC6xzATwO6ZQA8jwXqTund2SPW1nWTOXJW19WMnwfQyzlRD88ujOGeB0Ewy2XKZuKil0nQ1SEmYs4al_WcWuCv-oVDwyo-Jshav_3f_U6bhI_4ivaMjgwIo0uM4"
+          ],
+          "website": "https://www.hotelmonterey.co.jp/osaka/?utm_source=google&utm_medium=mybusiness&utm_campaign=website_monosa",
+          "phone": "06-6458-7111",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: Open 24 hours",
+              "Tuesday: Open 24 hours",
+              "Wednesday: Open 24 hours",
+              "Thursday: Open 24 hours",
+              "Friday: Open 24 hours",
+              "Saturday: Open 24 hours",
+              "Sunday: Open 24 hours"
+            ]
+          },
+          "hotel_distance_km": 0.6
+        },
+        {
+          "place_id": "ChIJxafZyOTmAGARIEGIu9-sR5w",
+          "name": "Piano Piano",
+          "address": "Japan, 〒550-0003 Osaka, Nishi Ward, Kyōmachibori, 1-chōme−4−２２ 肥後橋プラザビル 1F",
+          "vicinity": "肥後橋プラザビル, 1F, 1-chōme-4−２２ Kyōmachibori, OsakaNishi Ward",
+          "lat": 34.688223,
+          "lng": 135.4974502,
+          "rating": 4.2,
+          "user_ratings_total": 223,
+          "price_level": 2,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNQ1bd-OGyL8gHGh0fhrtz_jAZ64XT3NxXoPtlI_gGaYoXvn32rAIs5PDPHki_iHKZneX_1oXJHOg5w6lRESm3B2Ce82njoHs1qFZ8LnhPfp6njXLyR0DMsgRzMKSL1LGbYWPdmfmP9b9Y5dOsvPlGk0FPQEWnahPQAI8RqOOZCbltTvNxb2Izi56Owwo-0rEodM8SmbzZnCdpAljfzkryRILwTiRD0N5tgPaX27homnExWzn6kpWNhBDGDUVIiCt8lgmdWwsKnR0BtSoMcOoxxMdWhsVmKK8hncrIpszC-Xle3WvV2kMdOZPv-vbrubhQtLk2jPJVCyRNjgsNB2DhQuDLZRZPdfsIDrzW2VxzOggp_FrsVEWyJrWW_dftOpRdIW-ciWanc_D5YPIXK6NuXJa8oo-_ACMjGEMo0yPQ_YUNq6KcQiDLWMEZltwv_W1i7Bh7AxXDGKUgBAfibOVkQ4uRfJ8ZnXuKHhi4S36-gCcXap3rAmHXg_7vgFtWHLhzcUSF9bh0jjDZ2l5kI4xokIHzzJNE6RBa60FwzhgGrfyKm1BADIfOQP4zamKmPPGA5V8s2clm7FAFnx-E4eRZCGuSSvKPdPshNZ2bxlLGuW_fsOTLozdCoVkSgvvdwkZu9goA"
+          ],
+          "website": "https://piano-piano.co.jp/",
+          "phone": "06-6448-5774",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM",
+              "Tuesday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM",
+              "Wednesday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM",
+              "Thursday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM",
+              "Friday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM",
+              "Saturday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM",
+              "Sunday: Closed"
+            ]
+          },
+          "hotel_distance_km": 1.95
+        },
+        {
+          "place_id": "ChIJP1C7FevmAGARbtEQ7dG3Lfg",
+          "name": "Yukinoshita Umeda honten",
+          "address": "5-14 Dōyamachō, Kita Ward, Osaka, 530-0027, Japan",
+          "vicinity": "5-14 Dōyamachō, Kita Ward, Osaka",
+          "lat": 34.7030703,
+          "lng": 135.5024188,
+          "rating": 3.7,
+          "user_ratings_total": 144,
+          "price_level": null,
+          "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNQ95Hgsk502v3PQ9X5QEQeoIujUWHi2FMBSpDTt47MfyZvlpeHL1dUb6Upd1I3O4n24QHZQ-u4vR0aq95slQkcf1jui_Ty4nv4nrXzAXcHaSJ7LDonogg_2cYbtfiGSud3V9wGp-v32QGgbs4qQVx7j0fOnROiFCPmj-P9pGoLcps3bkdT6PD-vnp72apAs2ibp12rcmxKhMzu3rQ6-rSLspwp9Wge3A6-iroG3GNilccchp3N73J6E0ZwMA_bEqhHXrN5GBbMGL4jC3gdaVWaP1V76Qoouh98S8DMAp_cAypdeUJx_Bv8C6Vmjjv2ULgiuusZdHgk"
+          ],
+          "website": "http://yukinosita.net/osaka/",
+          "phone": "06-6949-8412",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: Closed",
+              "Tuesday: Closed",
+              "Wednesday: Closed",
+              "Thursday: Closed",
+              "Friday: 12:00 – 9:45 PM",
+              "Saturday: Closed",
+              "Sunday: Closed"
+            ]
+          },
+          "hotel_distance_km": 1.18
+        },
+        {
+          "place_id": "ChIJdZGMCPLmAGARlkQTgpqi6O4",
+          "name": "Gimpei Osaka-kitashinchi",
+          "address": "Japan, 〒530-0003 Osaka, Kita Ward, Dōjima, 1-chōme−5−４ はつ根ビル １階",
+          "vicinity": "はつ根ビル １階, 1-chōme-5−４ Dōjima, OsakaKita Ward",
+          "lat": 34.6961111,
+          "lng": 135.4966667,
+          "rating": 4.2,
+          "user_ratings_total": 828,
+          "price_level": 2,
+          "types": [
+            "meal_takeaway",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNTZ0jz95aBya8aD_mfnNH_JhrBzLbzhqRpk4GdyT_hLKlrK3Ti2BmXIR24dw7Ja5mcmSDA8a6xncUdIUr9xTWjdk-MpZ-MR5kP1UFAavBTAiaJM_JUe-NMgtuIaWtlKIDlXNVHy3FehyjojKtBjbK2HeN9Pr2-a49kJjQKXS8gvQSOXJCHrM1-Bz5FCYIIs-9lALTOH8F5MBcr0Fe1UrIgk3PrY5riF1IYyDNLZmBdTD1bD-isrVhFQwDL1wDOZBJj3hnvazN_usEZ6YoDeRT3Cis1cv9uqWp06fCkofehrFApMu30AGu4XAuOQYGsrBEHvj4DtGKdCOV5v5leBhVYxszkOs9ojtVAqHSdpBIf1MOGOLYdc70ZfczWGnGAgl77D3yBBiRmpjnFxCo9GlOiX7tMLLFRoXtGPEtYoSs11Z7-AXE2NLCIb9pyevnVqumWHbTGE9m9ibWwu-JydtnCcDeMaprk7q07PB1rU4vnQDztuRi36QEUCxHbV7L-QyRiMEvrMP6nWK9x88wdLpCg57x5sMKM0ZU80BGgfCUn8-AevVo3H6HSjhw6R4T0r2XJPsn7JQ8HqM5IieZ54qHhvkmc0alNxONA8_fG7rmrTu4frUxJOj4jM1bcD-c0Ms1VR4A"
+          ],
+          "website": "https://www.ginpei.shop/ginpei-kitashinchi",
+          "phone": "06-6341-6000",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: 11:30 AM – 1:30 PM, 5:00 – 9:30 PM",
+              "Tuesday: 11:30 AM – 1:30 PM, 5:00 – 9:30 PM",
+              "Wednesday: 11:30 AM – 1:30 PM, 5:00 – 9:30 PM",
+              "Thursday: 11:30 AM – 1:30 PM, 5:00 – 9:30 PM",
+              "Friday: 11:30 AM – 1:30 PM, 5:00 – 9:30 PM",
+              "Saturday: 11:30 AM – 1:30 PM, 5:00 – 9:00 PM",
+              "Sunday: Closed"
+            ]
+          },
+          "hotel_distance_km": 1.14
+        },
+        {
+          "place_id": "ChIJM9lL5tHmAGARufrPFc23Djg",
+          "name": "Imperial Hotel Ōsaka",
+          "address": "1-chōme-8-50 Tenmabashi, Kita Ward, Osaka, 530-0042, Japan",
+          "vicinity": "1-chōme-8-50 Tenmabashi, Kita Ward, Osaka",
+          "lat": 34.7007884,
+          "lng": 135.5196843,
+          "rating": 4.4,
+          "user_ratings_total": 5496,
+          "price_level": null,
+          "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNRm8XpIBhcrG2Yc0ctdJDL2zGyjhvBNNlv0tDy4ynoBl2OSsbh24YFyd93EpXdjJIjtgIx3Uytsxr0lMQYvONBvJRaRol2jRq2_8WHw-LL4sTBd1biL_Mlh3bqU_o-zWTwySyBH1sOHHHHEQT_G7AWPTJ65aiUL2hYdKdvgphYG7osiAFGI1t0Krpa0u8reXdwOJn_zAsk1SYKx1az3Yjt6uyipc3RFVB_Lqdy-xPZOWgKzo_TDm8gLK-CL7cPGN6MJh8ZCNwrklBCvx7Bu3kPFEXk_BkbynqdtMf4ZOu0HkIfCSEANyt6_uRFhbiREbEub4yEJT2YyNxVIizjmd3IF0k95EdVuXduYCApavcx0KF3_mQB-b-1E7fwfYvfa7ga2T5jsPkVZnMFtaiASJee5ZJkEd8Wx937AL2tD5jiqxniETnssKVcAMQBhjwsGCn9B2Y1oVVbVZJIzmnJDG5JuUSnAsoSCWm0yCN5n8CI21WnEIMWh1IY9X-qmfhyCBcO9fs3Wg-IdUFksfFuqyHPbG6qXWjmiNMneJgjJInmK17xs-Sbs5BBq-cPHLH3ShXTklrGlU3EZuMTzpIelvwISIGJr-qCuZvfz7yFgbmPNJp7aht1ef6t6DtfW2tRER9_OYg"
+          ],
+          "website": "https://www.imperialhotel.co.jp/osaka?cid=gmap_osaka&utm_source=gmap&utm_medium=gmap&utm_campaign=gmap_osaka",
+          "phone": "06-6881-1111",
+          "opening_hours": {},
+          "hotel_distance_km": 2.77
+        },
+        {
+          "place_id": "ChIJt58DM-3mAGARKocHV5OMuj4",
+          "name": "LUXE Tajimaya",
+          "address": "Japan, 〒530-0001 Osaka, Kita Ward, Umeda, 1-chōme−12−６ Ｅ～ｍａ 5F",
+          "vicinity": "Ｅ～ｍａ 5F, 1-chōme-12−６ Umeda, OsakaKita Ward",
+          "lat": 34.7006607,
+          "lng": 135.4986053,
+          "rating": 4,
+          "user_ratings_total": 42,
+          "price_level": 3,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNS2MHjsumP8lynwTK52Z9ZAi8rxNMPbVrxAYdPS6CK0ShLEf0idO1cJyFt_agHYHrUYLpN2AEtiaRY60k9xUqbmfP7puGOt2TZ6hHRtad0OmDXNIsiQMu_dVL5SBPm4A-dVEsuuCelhVG6KUxyRuiOnkv6xbtmM-auuGA6IpZYktYUywW_HSAVxoh3eOfIWwz8iK3FHu-Ya-6Kd08sZOSs8-E8QbC9v508p3nbBRpsqwCYT9cRjroWXoqboeVlPWnNBJy0Fb6q_VTS9UeYR6iPfwLcfNjU82gudnBsFBQ--_hXMp3b4MtHiX5yaogYETNmjDP473Zs"
+          ],
+          "website": "https://www.tajima-ya.co.jp/shop/luxe.html",
+          "phone": "06-6440-1129",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+              "Tuesday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+              "Wednesday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+              "Thursday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+              "Friday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+              "Saturday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+              "Sunday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM"
+            ]
+          },
+          "hotel_distance_km": 0.92
+        },
+        {
+          "place_id": "ChIJCy4HO43mAGARAP6yfECZ2ls",
+          "name": "IL PINOLO",
+          "address": "Japan, 〒530-0001 Osaka, Kita Ward, Umeda, 2-chōme−2−２ ヒルトンプラザウエスト 5F",
+          "vicinity": "ヒルトンプラザウエスト 5F, 2-chōme-2−２ Umeda, OsakaKita Ward",
+          "lat": 34.699915,
+          "lng": 135.495375,
+          "rating": 3.8,
+          "user_ratings_total": 357,
+          "price_level": 3,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNSJgWgBL6_rzeSsqzL-5vgC-XjxxHUi0uMIUIwofD-rl79WKucq4GkHOoD9ns1xp6hdE_UsR0zKm5E9VD_mcEIuPYmC69ald2Jnn3YMZQ2XdviFYfD2sPJHQwcwz6AQOhZsZNvSWD1ggs5tVYmqPAl3oMIyO4fYfuXMD_3p3jUEkDY0elXuLno82D_c1blp_Y7XiMTo16IdqKrXpdwBW2lfxRRS0ocEWRp_uNUQNGIxw8i6MPWfbY9A8xt2tlhJRnla_VfTtmolhO0_LlqPy9Sb8CVXH1oqBOatMLlGIzElHM3PnLWo0U53_uUGup2CNIKIheCk6fE"
+          ],
+          "website": "https://www.il-pinolo.com/umeda.html",
+          "phone": "06-6342-0080",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+              "Tuesday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+              "Wednesday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+              "Thursday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+              "Friday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+              "Saturday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+              "Sunday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM"
+            ]
+          },
+          "hotel_distance_km": 0.74
+        },
+        {
+          "place_id": "ChIJ2yO6GfPmAGARSTYU2_yayvk",
+          "name": "HOTEL MYSTAYS PREMIER Dojima",
+          "address": "2-chōme-4-1 Sonezakishinchi, Kita Ward, Osaka, 530-0002, Japan",
+          "vicinity": "2-chōme-4-1 Sonezakishinchi, Kita Ward, Osaka",
+          "lat": 34.697452,
+          "lng": 135.494168,
+          "rating": 3.9,
+          "user_ratings_total": 787,
+          "price_level": null,
+          "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNR_FgUkQA4AVm8CbhU3bfOeHhrCoE8oY5c0AYC27smGcucX0S7lkRMAgm0pnQGoZyR6KnsIfIdwQxemsnEHrIVQKWStEC4Kkj7QP3XB59Pkq-B_qReYHYF3HSDdF5uk_JBzPdv6h833hGYLKqsEwsz_tp49m0UHLYe3GlAZnoRyuEl_34qkWUFFNWn3h_EhCPcKjQbcjihWM4DBvLbyqYNOQuKpjP4ZHiqiVme9m8WjeFwuJW7T8G1I-Ts40gjEe0omezaKUv4okJwVBVh_1I744nqLgrcQtz_rkqWP_Iwampn4f-b6-okaRD7cHYWLjovy0dgIgBk"
+          ],
+          "website": "https://www.mystays.com/hotel-mystays-dojima-osaka/?utm_source=google&utm_medium=GBP&utm_campaign=MSPDojima",
+          "phone": "06-6347-8777",
+          "opening_hours": {},
+          "hotel_distance_km": 0.89
+        },
+        {
+          "place_id": "ChIJH6EIVpLmAGAR4dlIL8rP-fw",
+          "name": "kushikatsu Katsu (Hankyu Grand Bldg)",
+          "address": "Japan, 〒530-0017 Osaka, Kita Ward, Kakudachō, 8−４７ Hankyu Grand Building, 28階",
+          "vicinity": "Hankyu Grand Building, 28階, 8−４７ Kakudachō, Osaka, Kita Ward",
+          "lat": 34.7031778,
+          "lng": 135.4990329,
+          "rating": 4.2,
+          "user_ratings_total": 103,
+          "price_level": null,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNSmGMePfJK0STPZJXxBq5BThWL6ISiSjBNb5eG-AVDd-52O1DWnENfzy8zp0xgPNUEMTNnvRzalwTjvGgF20Qlz35_emIvFgBkxGsIZY-syUAA6jE3AY3RH7M3W1ukUxAhcOI81e2AC98sqw_uVeM-XXHqlo5H1EdXFToRXe-iZzc32X-5jPs8E-BwExDy_IlAk0m8kEpUFE3HoW7zPFLSeWPJ4LLNnVHv4d4FHEScWNuGb_vm9McsqBirgB8Kj2MB9AImAoOVcOyl8ft8MbdBoCLTsVg6e7bKC8IuqotgpitiH6U3SDZwS8VpQpiaZ_tosdUd7aGg"
+          ],
+          "website": "https://www.tsudasangyo.co.jp/kushikatsuryori-katsu/hankyugrandbuilding",
+          "phone": "06-6315-8388",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM",
+              "Tuesday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM",
+              "Wednesday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM",
+              "Thursday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM",
+              "Friday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM",
+              "Saturday: 11:00 AM – 10:00 PM",
+              "Sunday: 11:00 AM – 10:00 PM"
+            ]
+          },
+          "hotel_distance_km": 0.87
+        },
+        {
+          "place_id": "ChIJGWmIa_HmAGARWE58-0ns2cs",
+          "name": "Szechwan Cuisine & Wine Restaurant \"YIFU\" at Osaka Nakanoshima",
+          "address": "3-chōme-3-23 Nakanoshima, Kita Ward, Osaka, 530-6103, Japan",
+          "vicinity": "3-chōme-3-23 Nakanoshima, Kita Ward, Osaka",
+          "lat": 34.69300699999999,
+          "lng": 135.493652,
+          "rating": 4.2,
+          "user_ratings_total": 105,
+          "price_level": 2,
+          "types": [
+            "bar",
+            "meal_takeaway",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNRd-sbSa8q4ZiR_bpNpMX614BbfAwO_BEPINVYS5sS4c-_0YCESArfuAjoaQw2bUG93ve4ciEqVx6h4IKRuiWqC5XOP9GM5O8rjVE3iT_egXvrTpWBueDkcQ8-PLDih-hFUWUWpTYOjCkFl5-JGucz9EA1gyA8gZZIhpm4sTHpDHeNjb_Bw_RvaQfD6g9w8AM2GY9CPX6TDxU9UG16DHkfxFCnRKZ0x71bT3oyy3BOSRFzKIhdeE_p9rUcna5IOrQuCAycJsImWMH6PfGPkL475f0KwKAkX3_nBssO7mWmtUGr2PFVb6bk9LLQsRVU2uJrSq3ZawHU"
+          ],
+          "website": "https://tabelog.com/osaka/A2701/A270102/27052944/",
+          "phone": "06-6225-2988",
+          "opening_hours": {
+            "weekday_text": [
+              "Monday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM",
+              "Tuesday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM",
+              "Wednesday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM",
+              "Thursday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM",
+              "Friday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM",
+              "Saturday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM",
+              "Sunday: Closed"
+            ]
+          },
+          "hotel_distance_km": 1.34
+        },
+        {
+          "place_id": "ChIJ54HhViHnAGARgzdwvH6kP8Y",
+          "name": "City Plaza Osaka Hotel",
+          "address": "",
+          "vicinity": "2-31 Honmachibashi, Chuo Ward, Osaka",
+          "lat": 34.6842687,
+          "lng": 135.5106707,
+          "rating": 4,
+          "user_ratings_total": 2072,
+          "price_level": null,
+          "types": [
+            "lodging",
+            "spa",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNSlEHIWEEn2ylhGQD9M6lW6bC9mVQthA3bjKe-GZjZpb03pIRabhRyayd-vllZ7QvZRZJbsDqBrnX9TzvMUEu99M7Ng2RstShEJOHrXa1s5MMIslVvKK3YigVAyV8InKKB5hekLFky_gyJ63Rhil6Jm_C1s_AE3VXUMVvZON9L07AMyDgfgSicR9qMzYlVW899y4TEzMa_6t1e0LIFjTG1RB-7EsZEL7Pxu0KxIU_mLcFkyjUkojPTSzc95pbs94Ka7W7-QpCT9D5IXxHasIdWMwYjR3u_Gb9IUt5SZzMEeL6E0a10TNbZObbB3HoG151-UmEKqoyg"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 2.96
+        },
+        {
+          "place_id": "ChIJtbiN24zmAGARTiZVtKmqEis",
+          "name": "XEX WEST Salvatore Cuomo Bros.／The BAR",
+          "address": "",
+          "vicinity": "ハービスエント 7F, 2-chōme-2−２２ Umeda, OsakaKita Ward",
+          "lat": 34.69958370000001,
+          "lng": 135.4940831,
+          "rating": 4,
+          "user_ratings_total": 1018,
+          "price_level": 3,
+          "types": [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNQtEBlykXMxCAROe0o8wG2jQhDS6ITdDJTbjOlckKTDgnYIbewRg2yROteOzkU5q5pbiVUMwTQqlpBJv2TWglxVnfVDJiGpwNphDgjLS2Iw1U3skz3BYtlnE7VpUA0DjDAEnvYZePtU4T2qatQ5xLUZOK_Ua-3PsK3BBY7bMv2AzGn6Ommgu8mJc_lgNA29akul_AUsTWfhw-7zRtwjdA_yLb5DVGWLvJ2hykz_p1gYrMxrKrAxbjLcQeZc86OuYd2ERyPFORUDStMNd3JkcywXInpyXylKNj1c7eX9i_g4r0FxKpD4UVmK9-NcZmJu5nHaCLK7Hvk"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 0.69
+        },
+        {
+          "place_id": "ChIJt7OVRpDmAGARtzhUeLvUjM4",
+          "name": "Hotel Hankyu International",
+          "address": "",
+          "vicinity": "19-19 Chayamachi, Kita Ward, Osaka",
+          "lat": 34.70849619999999,
+          "lng": 135.498605,
+          "rating": 4.1,
+          "user_ratings_total": 5120,
+          "price_level": null,
+          "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNSM7kgvqjiEBYpJr31Ywr4QUiNqYHrgXlNM_tBohdUZtdM9p6RuD6zYnN-WOtHEkaekVlXz4KQeiiT38ZrVjFdY5p9g3tf7eO7MKaBbi23KjwXD1Icr7AOkcHceAbagx76DoMPKRwwALVxcwcjoxl5fMGvyN537OcN6bHOe5zkMgKR28mMks0jCh1nQAGpOJrX46-O47is7gaW8mjpWwvPVxCeTyXF3x3LcpUTUWWQkhUC14WFrqfYqF7aaZ3aUt76YMg_Obndxi0KgAQTORFdT1UUzPLZilH8_76QcmAwAM6uQvaARW2LEKk41lOPpNLPLds6MVic"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 0.92
+        },
+        {
+          "place_id": "ChIJJ6Spye3mAGARnln9XEkZ_ek",
+          "name": "星家",
+          "address": "",
+          "vicinity": "1-chōme-6-6-8 Sonezakishinchi, Kita Ward, Osaka",
+          "lat": 34.697361,
+          "lng": 135.4987565,
+          "rating": 3.3,
+          "user_ratings_total": 8,
+          "price_level": 2,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNSa6HjWI4PQSlj13VJ37BZxvl2CdunvJBAAgaU8bsE1_F5-2pbBI_ozKPgUfQ2h3vM3_GpL8qs8oDC8xBghI2wIYKdC1fXlO_Sb8QlLMQ2VicsiMwE08S_mRl2Y0uuI9LggFcbcBlv0co5hg8kfe84SOB9qTjpdlgIJznyjOxMvU5R8DX5GM_Nv7V3NRPAVom-cok479Zq3tnpRWvj_BGJ8cXOsDBRuFaaARsp_znR7lik9aLnjPLGLPSWrsx65Yd8zmlddQHnGM_RxCJhQxNQgBD-1laOt6BHi9tOj9fAiswh6wKmJgX0sN6IrSwF5qPMLAaD6SojT0A8c9hnk4FfRMRLyUnbLztLvWmEMrQW271N6sKGr8AKuahGg17GSDrDkq7sudSpcCIPWsJH1KGyNsOdYRoCyBqT1HBt22w7C6k_TiGA1e_EqXPIni8gZ9FezRpLG03iIYIMlb_t7jR2QJ2hV9xc4jZci5sCPArt4themPH7f51lJxjOaawB5sslkmlbX7kS-E_Pk9gJ3hz7bWPrh6duoM_vqtnVvqaexf2VfKLgQN1Q0P6785ToYsraj-hR8DXLW6XCK0pBM2-yVfNfsVWUPhicQv-Nkf67NV0Qn2zVy6deS5sW36ECbTTnS-A"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 1.15
+        },
+        {
+          "place_id": "ChIJz4HJq4zmAGARO8o6A1284ws",
+          "name": "The Ritz-Carlton Gourmet Shop",
+          "address": "",
+          "vicinity": "2-chōme-5-25 Umeda, Kita Ward, Osaka",
+          "lat": 34.69812590000001,
+          "lng": 135.4925103,
+          "rating": 4.5,
+          "user_ratings_total": 126,
+          "price_level": null,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNSQRY04KXWGEUzNiqM9bEU4mgBu3Vkyp9-tvCzieIDPy9jwStXXUOHPplowbvcIeOPLMznEeOb-8b6JFo60wpsUOfw7RonKTzndKAkJpEHNRJDoMJRg5xAgpnZ_ckwL9my1gIYCHAlsFfxDXyL_AWg6hGOcaDznNonHtNMpnIUihT2XDMtl8km52NIQ6ZEFKWGN55LBTIFe9QtSMfa1b4lv6E8Le4C0iCpm70_A4WwPHaw7BPkVkDQ5N7egt94-nDW9y7PfViZ5cOmkedFuKhSpxwWogDcvgw_3uhKsucSIweDzU9bsKpreFRHqJuw9zsIcYZD78Xo"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 0.76
+        },
+        {
+          "place_id": "ChIJxU8Lgo3mAGARaC5qINDFmSc",
+          "name": "ラグナヴェールプレミア",
+          "address": "",
+          "vicinity": "ノースゲートビルディング 28F, 3-chōme-1−３ Umeda, Osaka, Kita Ward",
+          "lat": 34.70310519999999,
+          "lng": 135.4949853,
+          "rating": 3.7,
+          "user_ratings_total": 154,
+          "price_level": null,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNSAGnRIWEKjqhcavHb7ocOog6RaK2juUpDPMXsL3S_R2U67Z3xC1x34l_cujz_fapyXscbGvG49IzTCzJbK9d29x5SkEl3LHplUIja5qaP2LigbkCjtVxXAu3gST252NLVEU_sxibsQ2gC8OAfTFiIrNUxLJ2jOHAjxQsPVThHQExYPaNFqn-f8D0b8eeMLSL3dpWo2gku70yzCsf2ZezvamW9bCCuOy-QlAsxpcR7AJAAbCcKgwHjUKUSesk_AY1gZQYhzVGDH1pEUYZlfYDxQW632TL-iJG3MbK9BDhFEDNPOBBCNIwOls8dY3-XZDf_FtzRhxZY"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 0.51
+        },
+        {
+          "place_id": "ChIJl7h4XZrmAGARXikRFKY9l4Y",
+          "name": "Ramen Yashichi",
+          "address": "",
+          "vicinity": "3-chōme-4-8 Toyosaki, Kita Ward, Osaka",
+          "lat": 34.7112957,
+          "lng": 135.4997284,
+          "rating": 4.4,
+          "user_ratings_total": 1043,
+          "price_level": 2,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNRL7Ub7LawEXey_Ts_297YL5KIxeqK6dkVxsvdR7DTyz3v_wj40S2auwfd_0zzBr-IutTIdValMGeaGAIjBYUlOL-cZ5albrMHmL5H9lUFMST4glghNkE-Jag9Zc-2jjfcXzD9kDEEky04ESjJZcdSZJmiIC4WKPk5fMk7til8U8YImNm8ECxEG-PIjUHQuL0Kmh0zknqF3UBfIobFcaPsVp7iHQLweX5yLUkvLr3xP675z1TclRbvrTwVECFtsEkwU4CfJvtUqpojb2BpX7TYdeEdx7NuW_R_kxiVc6yoHI-cDcdZGra-PUMpoAbbPhM749DwoKGgQZpFANtflkaiDpBGqIWTlrCYjSMtwl9LfJAhUXA-ZiKMoqtpPYoUGENNxX-R_rlf7_p6I3gVXI5_F2crHz2aJ9_gHFp_pe9dXhapmhbATrE0APIsc1b2MPqJlzK9UK0cxsqeZxELoJYozb-ihfogAIlGkr5Srt0KlVMthcCzKl2g07BNK-8hney62UC09VfKQT_xs8d7q39wVwJWFpRzX1PbJVhGcl2s0dnX_GLHLyKBg1jhTFH4J0QgGWwq4ukJDMg1rEOK8bNhFBVHptHrr_Ft2PNCNi7BbFVnAbeafOcGnLfhGVNo6sNZoYIS1"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 1.18
+        },
+        {
+          "place_id": "ChIJH3TKoPLmAGAR9x5kYVV0Xno",
+          "name": "Gen-Mi-An Nishiumeda",
+          "address": "",
+          "vicinity": "Osaka Ekimae Daiichi Building, １Ｆ, 1-chōme-3−１ Umeda, Osaka, Kita Ward",
+          "lat": 34.6986572,
+          "lng": 135.4963795,
+          "rating": 4.2,
+          "user_ratings_total": 349,
+          "price_level": 2,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNQQEm6lHdhOfHOaaIknhYhbedQzfVQ04qxwkhFA9MJSD-aRrxtHrrHGPthLxN0VGqI4rGhV74sFwzAawEPAXav10vztm5BbZ0n9xTtg9sRFMCGNxXRskl_Ht2ZhlIHU6lNPqHbOcM2WvU_Q94WE7bqhblhrroTB_lORRvuCr7btVLo41RBFpVZd_wh_JTvxKO2Sryfk7Cw0cdut0m4Lx9nSKNYHQKY1pLQ4K1i7YwL65XzmPaSEApE-GAaGWKB8X87a5yrpQx3SW9DgcVZeiFvr9UPgOXH7Iph2n4FoJnYhnlyk8gjt01_opLiTwffEkO4cLjDui7YHvpmxYsTclYOaEaSaSMFD1_0nj98V5q-pSo8owlFHs1yZi3WUrFyWKMknf4Pb5BbKb_m0x7dBlHmOmZPQu0k5RpVhBgngFYl7NC1gep4Dbq0qIy_yla7I0KH8cQMIngiNXAS0-1wIsogDibHzjciuMWFFMpvFL3y0vNODp937YiAjmRnBrnldQ_91NMmV5PfCQBTWLVDqp4SLA_y1UN29mB0MFINQ0TQNfBwYD7xH8Ob6NYaMB7yq2Y0a5LMZNrU6y5mxL4-s7lJyyVpX9NL4FE6p_6_crCc5I9J4cXMJl9ZP4zbsyQBv"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 0.9
+        },
+        {
+          "place_id": "ChIJ999dBIrmAGARCSlrbMSkriA",
+          "name": "La Lucciola",
+          "address": "",
+          "vicinity": "5-chōme-7-3 Fukushima, Fukushima Ward, Osaka",
+          "lat": 34.6965755,
+          "lng": 135.4886002,
+          "rating": 4.3,
+          "user_ratings_total": 102,
+          "price_level": null,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNS2XDqABu3DFV-qJbxBO98vfYKkk1ypMgUP11mk-RyOJ_7FdzP1ViJseRuCOVzwWoEHEN1oV14-yh_P9JqTasL-4tQiK6JwTSqn849Quld6wPAldN_-4WZuk355rDN9Zpw35G85k-UH8wQHPOXDIYFv1mQFiAaqxAMf0A06KuNqlqwnc1i_tfYl_eUyw-boXaeWF8kYiYKWq5Wkfbg8AYLPUyERyRfX1k3nmyir4WhrzK4TrKLaEhBQ-TqqdLlWgrTX6SMzjSrPe3Mz_tlB2t9E20EUVQ7A9Agw9a6hzmzvqE8frgeKmGqHT8J4EPzYQ5YfggnsOphoawjvznR1yh3pV1HcuqDCFuQlT_4GPRml1lAif_ZER6hadzCyKTJ6G270FFQACh57Znkr3Ogr2Rs-NJV84vzgQqVB-O_RBu1BWvZNBAI59OkVLrv29ob-X5INKxDUjrwPh1tVrPQCeGKU0osxgkdOyWb2bRpmrls-AmzVTckGeH2huiOEDHmQpZdxxC7h_l2a8zuIcDCmFmmhXOhUVJwEssEWwphyaTFEdsxhKYmKtTccUSaMnXsKy6JKvx2z7JZ4czPy14Di_v4ep_r3M4YuPasQt--edfUDylyDRDGT093IjaJrm7bw9-z8Dg"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 0.9
+        },
+        {
+          "place_id": "ChIJK974ppHmAGAR0SjOxht3Tu8",
+          "name": "La Bilancia Birancha Umedaten",
+          "address": "",
+          "vicinity": "NU茶屋町 8F, 10−１２ Chayamachi, OsakaKita Ward",
+          "lat": 34.7070155,
+          "lng": 135.4990478,
+          "rating": 3.3,
+          "user_ratings_total": 154,
+          "price_level": 2,
+          "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+          ],
+          "photos": [
+            "AXQCQNSdoqQc01dTe_aXS61fjjlI_fqaTmASWYylXaCoBM5jKczK0KsTaEekou-l8Ia0PJdPyiCo1MH4GqEn0X335_5_wiBrOYmsm-yXXe2QKqDKA-kivW4Z2l5D2ALHJc9zvDNRsM2bxV132NIpauAmixrdho1ZWlJftV3yIkBmoBC8xKpPwMCdUx3YW3feVqcBy8hCU73KhkPXnAXzXMxcCex7bx06DKeuxgs3HkiPg3FXPM68u9_DXuKNix7_i4p6bHQjITsvvUqBj6SLH1QoFOHELd0nxsrSZETKc3iZLpIA8ta45GiTXAuTTXSkRAHEAvPTSBGmFhw"
+          ],
+          "website": "",
+          "phone": "",
+          "opening_hours": {},
+          "hotel_distance_km": 0.9
+        }
+      ]
+    }
+  ]
+}

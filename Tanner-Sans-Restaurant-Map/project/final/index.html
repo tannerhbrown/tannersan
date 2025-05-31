@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tanner-San's Restaurant Map</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/additional-styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Noto+Serif+JP:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <h1 class="site-title">Tanner-San's Restaurant Map</h1>
+            <p class="site-tagline">Discover culinary gems near your hotel in Japan</p>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <section class="filters-section">
+                <h2 class="section-title">Find Restaurants</h2>
+                <div class="filters-container">
+                    <div class="filter-group">
+                        <label for="hotel-select">Select Hotel:</label>
+                        <select id="hotel-select" class="filter-control">
+                            <option value="">All Hotels</option>
+                            <!-- Hotel options will be populated by JavaScript -->
+                        </select>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label for="cuisine-select">Cuisine Type:</label>
+                        <select id="cuisine-select" class="filter-control">
+                            <option value="">All Cuisines</option>
+                            <!-- Cuisine options will be populated by JavaScript -->
+                        </select>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label for="rating-select">Minimum Rating:</label>
+                        <select id="rating-select" class="filter-control">
+                            <option value="0">Any Rating</option>
+                            <option value="3">3+ Stars</option>
+                            <option value="4">4+ Stars</option>
+                            <option value="4.5">4.5+ Stars</option>
+                        </select>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label for="sort-select">Sort By:</label>
+                        <select id="sort-select" class="filter-control">
+                            <option value="distance">Distance</option>
+                            <option value="rating">Rating</option>
+                            <option value="name">Name</option>
+                            <option value="price">Price</option>
+                        </select>
+                    </div>
+                </div>
+                <!-- Filter results count will be inserted here by JavaScript -->
+            </section>
+
+            <div class="content-layout">
+                <section class="map-section">
+                    <div id="map" class="map-container">
+                        <!-- Google Maps will be loaded here -->
+                        <div class="map-placeholder">
+                            <p>Map loading...</p>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="restaurants-section">
+                    <h2 class="section-title">Restaurants</h2>
+                    <div id="restaurants-container" class="restaurants-container">
+                        <!-- Restaurant cards will be populated by JavaScript -->
+                        
+                        <!-- Loading state for restaurant cards -->
+                        <div class="restaurant-card restaurant-card-placeholder">
+                            <div class="restaurant-image-container">
+                                <div class="restaurant-image-placeholder"></div>
+                            </div>
+                            <div class="restaurant-info">
+                                <h3 class="restaurant-name">Loading restaurants...</h3>
+                                <div class="restaurant-rating">
+                                    <span class="stars">★★★★☆</span>
+                                    <span class="rating-value">4.5</span>
+                                </div>
+                                <p class="restaurant-cuisine">Finding nearby options</p>
+                                <p class="restaurant-distance">Calculating distances</p>
+                                <p class="restaurant-price">¥¥¥</p>
+                                <div class="restaurant-actions">
+                                    <button class="btn btn-primary" disabled>View Details</button>
+                                    <button class="btn btn-secondary" disabled>Directions</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>About Tanner-San's Restaurant Map</h3>
+                    <p>A curated guide to the best dining experiences within 5 miles of selected hotels in Japan.</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Contact</h3>
+                    <p>Email: info@tannersanmap.jp</p>
+                    <p>Phone: +81 3-1234-5678</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Follow Us</h3>
+                    <div class="social-links">
+                        <a href="#" class="social-link">Instagram</a>
+                        <a href="#" class="social-link">Twitter</a>
+                        <a href="#" class="social-link">Facebook</a>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2025 Tanner-San's Restaurant Map. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="js/app.js" defer></script>
+    <script src="js/map.js" defer></script>
+</body>
+</html>
